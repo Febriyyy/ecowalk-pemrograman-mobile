@@ -1,4 +1,4 @@
-# Ekojalan
+# Ecowalk
 
 Aplikasi mobile berbasis Flutter yang dibuat sebagai tugas kuliah.
 
